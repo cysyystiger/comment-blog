@@ -1,0 +1,25 @@
+#time {
+  color: gray;
+  font-size: 80%;
+}
+#cta {
+  margin-top: 10px;
+}
+#ctb {
+  margin-left: -84px;
+  margin-top: -30px;
+}
+#ctb:hover {
+  background-color: #33FF33;
+}
+#ctb2 {
+  width: 60px;
+  height: 30px;
+  margin-left: -60px;
+  margin-top: -22px;
+  padding-left: 10px;
+  padding-top: 4px;
+}
+#ctb2:hover {
+  background-color: #33FF33;
+}
